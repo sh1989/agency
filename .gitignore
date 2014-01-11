@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse IDE project structure
+.classpath
+.project
+bin/
+.settings/
